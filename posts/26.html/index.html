@@ -49,7 +49,7 @@
 <meta itemprop="description" content="ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local">
 <meta itemprop="datePublished" content="2021-02-15T15:55:32+00:00" />
 <meta itemprop="dateModified" content="2021-02-15T15:55:32+00:00" />
-<meta itemprop="wordCount" content="758">
+<meta itemprop="wordCount" content="688">
 
 
 
@@ -143,7 +143,7 @@
             <a href="/categories/ubuntu/"> ubuntu </a>
             <a href="/categories/%E7%BD%91%E7%AB%99/"> 网站 </a>
             </div>
-          <span class="more-meta"> 约 758 字 </span>
+          <span class="more-meta"> 约 688 字 </span>
           <span class="more-meta"> 预计阅读 2 分钟 </span>
         
       </div>
@@ -166,7 +166,6 @@
             <li><a href="#建立本地和github仓库的连接">建立本地和github仓库的连接</a></li>
             <li><a href="#heading"></a></li>
             <li><a href="#上传到github">上传到github</a></li>
-            <li><a href="#自动上传文章">自动上传文章</a></li>
           </ul>
         </li>
         <li><a href="#常见错误处理">常见错误处理</a>
@@ -347,29 +346,6 @@ git add .
 git commit -m “yyyy/mm/dd-hh:mm”
 git remote add origin git@github.com:waimao365/lubutu18.git
 git push -u origin master
-</code></pre></td></tr></table>
-</div>
-</div><h3 id="自动上传文章">自动上传文章</h3>
-<p>复制下面内容保存到 deploy.sh</p>
-<p>地址和主题名改成你的就可以了</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt">1
-</span><span class="lnt">2
-</span><span class="lnt">3
-</span><span class="lnt">4
-</span><span class="lnt">5
-</span><span class="lnt">6
-</span><span class="lnt">7
-</span></code></pre></td>
-<td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">hugo --theme=even --baseUrl=&#34;http://waimao365.github.io/&#34; --buildDrafts
-cd public
-git init
-git add .
-git commit -m &#34;备注&#34;
-git remote add origin git@github.com:waimao365/lubutu18.git
-git push
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="常见错误处理">常见错误处理</h2>
