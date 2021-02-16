@@ -49,7 +49,7 @@
 <meta itemprop="description" content="ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local">
 <meta itemprop="datePublished" content="2021-02-15T15:55:32+00:00" />
 <meta itemprop="dateModified" content="2021-02-15T15:55:32+00:00" />
-<meta itemprop="wordCount" content="688">
+<meta itemprop="wordCount" content="728">
 
 
 
@@ -143,7 +143,7 @@
             <a href="/categories/ubuntu/"> ubuntu </a>
             <a href="/categories/%E7%BD%91%E7%AB%99/"> 网站 </a>
             </div>
-          <span class="more-meta"> 约 688 字 </span>
+          <span class="more-meta"> 约 728 字 </span>
           <span class="more-meta"> 预计阅读 2 分钟 </span>
         
       </div>
@@ -170,6 +170,7 @@
         </li>
         <li><a href="#常见错误处理">常见错误处理</a>
           <ul>
+            <li><a href="#-rejected--------master---master-fetch-first">! [rejected]        master -&gt; master (fetch first)</a></li>
             <li><a href="#fatal-远程-origin-已经存在">fatal: 远程 origin 已经存在</a></li>
             <li><a href="#-rejected--------master---master-non-fast-forward">! [rejected]        master -&gt; master (non-fast-forward)</a></li>
           </ul>
@@ -349,7 +350,26 @@ git push -u origin master
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="常见错误处理">常见错误处理</h2>
-<h3 id="fatal-远程-origin-已经存在">fatal: 远程 origin 已经存在</h3>
+<h3 id="-rejected--------master---master-fetch-first">! [rejected]        master -&gt; master (fetch first)</h3>
+<p>将github修改的文件更新到本地</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">git pull --rebase origin master 
+</code></pre></td></tr></table>
+</div>
+</div><p>再次提交：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback">git push origin master
+</code></pre></td></tr></table>
+</div>
+</div><h3 id="fatal-远程-origin-已经存在">fatal: 远程 origin 已经存在</h3>
 <p>此时只需要将远程配置删除，重新添加即可；</p>
 <p>git remote rm origin</p>
 <h3 id="-rejected--------master---master-non-fast-forward">! [rejected]        master -&gt; master (non-fast-forward)</h3>
