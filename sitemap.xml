@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://163168.xyz/%E4%B9%B0%E5%A4%96%E8%B4%B8%E8%B4%A7/</loc>
+    <loc>https://163168.xyz/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10,14 +10,70 @@
   
   <url>
     <loc>https://163168.xyz/categories/</loc>
-    <lastmod>2021-02-15T15:55:32+00:00</lastmod>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/tags/docker/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://163168.xyz/</loc>
-    <lastmod>2021-02-15T15:55:32+00:00</lastmod>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/tags/lnmp/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/tags/omv/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/post/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/tags/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://163168.xyz/posts/25.html/</loc>
+    <lastmod>2021-02-16T15:30:08+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,20 +101,6 @@
   
   <url>
     <loc>https://163168.xyz/categories/linux/</loc>
-    <lastmod>2021-02-15T15:55:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/post/</loc>
-    <lastmod>2021-02-15T15:55:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/tags/</loc>
     <lastmod>2021-02-15T15:55:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -95,13 +137,6 @@
   <url>
     <loc>https://163168.xyz/categories/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2021-02-15T15:55:32+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/tags/docker/</loc>
-    <lastmod>2020-06-02T15:55:32+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -681,13 +716,6 @@
   </url>
   
   <url>
-    <loc>https://163168.xyz/tags/lnmp/</loc>
-    <lastmod>2019-12-08T19:21:42+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://163168.xyz/tags/%E6%88%B4%E5%B0%94e6430/</loc>
     <lastmod>2019-12-08T19:21:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -703,27 +731,6 @@
   
   <url>
     <loc>https://163168.xyz/posts/8.html/</loc>
-    <lastmod>2019-12-08T18:31:42+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/tags/omv/</loc>
-    <lastmod>2019-12-08T18:31:42+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/</loc>
-    <lastmod>2019-12-08T18:31:42+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</loc>
     <lastmod>2019-12-08T18:31:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

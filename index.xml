@@ -6,14 +6,23 @@
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://163168.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>about</title>
-      <link>https://163168.xyz/%E4%B9%B0%E5%A4%96%E8%B4%B8%E8%B4%A7/</link>
+      <title>买外贸货</title>
+      <link>https://163168.xyz/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://163168.xyz/%E4%B9%B0%E5%A4%96%E8%B4%B8%E8%B4%A7/</guid>
+      <guid>https://163168.xyz/about/</guid>
       <description>关于微店回复慢 因实体批发比较繁忙，经常回复会比较慢，谢理解！大家可以先看下下面的相关解答哈！有不清楚的还可以咨询我们的哈！ 关于发货 默认中通，</description>
+    </item>
+    
+    <item>
+      <title>模板</title>
+      <link>https://163168.xyz/posts/25.html/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/25.html/</guid>
+      <description>N1安装好omv后， 进入系统，常规设置，修改web管理员密码，需要安装的lnmp搭建网站的话，还需要修改端口，自动登出时间可以设置为1天。 进</description>
     </item>
     
     <item>

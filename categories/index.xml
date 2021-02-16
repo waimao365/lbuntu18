@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>斐讯N1</title>
+      <link>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>hugo</title>
       <link>https://163168.xyz/categories/hugo/</link>
@@ -337,15 +346,6 @@
       <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
       
       <guid>https://163168.xyz/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>斐讯N1</title>
-      <link>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</link>
-      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
-      
-      <guid>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</guid>
       <description></description>
     </item>
     
