@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hexo on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/hexo/</link>
+    <description>Recent content in hexo on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Dec 2019 12:33:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图床搭建的最佳选择 PicGo &#43; Github &#43; Jsdelivr免费公用CDN加速.</title>
+      <link>https://163168.xyz/posts/12.html/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/12.html/</guid>
+      <description>图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速 Github创建仓库 点击 New repository 创建好后，获取Token 这个Token只出现一次的，</description>
+    </item>
+    
+    <item>
+      <title>Github 绑定域名添加https的方法2019年9月更新</title>
+      <link>https://163168.xyz/posts/5.html/</link>
+      <pubDate>Sat, 14 Sep 2019 15:40:43 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/5.html/</guid>
+      <description>官方教程 https://help.github.com/en/articles/using-a-custom-domain-with-github-pages 打开 https://github.com/ 打开 https://github.com/waimao8/waimao8.github.io/settings 绑定域名：163168.xyz 打开你要绑定域名的项目，进入设置页面。并在 Github Pages - Custom domain 这一栏填上你的网址 163168.xyz 在source 目</description>
+    </item>
+    
+    <item>
+      <title>hexo博客优化之文章置顶&#43;置顶标签</title>
+      <link>https://163168.xyz/posts/4.html/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:23 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/4.html/</guid>
+      <description>支持置顶的仓库 可以直接用以下命令安装 1 2 $ npm uninstall hexo-generator-index --save $ npm install hexo-generator-index-pin-top --save 然后在需要置顶的文章的Front-matter中加上top: true即可。 设置置</description>
+    </item>
+    
+    <item>
+      <title>hexo博客备份迁移教程</title>
+      <link>https://163168.xyz/posts/3.html/</link>
+      <pubDate>Wed, 11 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/3.html/</guid>
+      <description>hexo备份 新建repository 在Github下创建一个新的repository，取名为myblog。(与本地的Hexo源码文件夹同名即</description>
+    </item>
+    
+    <item>
+      <title>github搭建hexo博客和绑定域名的详细过程</title>
+      <link>https://163168.xyz/posts/2.html/</link>
+      <pubDate>Mon, 09 Sep 2019 19:21:48 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/2.html/</guid>
+      <description>1、https://github.com/ 先注册账号 比如我的是 waimao8 2、New repository waimao8.github.io 3、下载git https://git-scm.com/downloads 默认安装 安装好后，用git &amp;ndash;version 来查看一下版本 4、</description>
+    </item>
+    
+    <item>
+      <title>hexo安装后的使用教程</title>
+      <link>https://163168.xyz/posts/1.html/</link>
+      <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/1.html/</guid>
+      <description>​ 安装主题（next） git clone https://github.com/theme-next/hexo-theme-next themes/next 下载主题解压后放到themes目录 编辑主目录的_config.yml 查找language 设置 language: zh-CN 搜索Schem</description>
+    </item>
+    
+  </channel>
+</rss>

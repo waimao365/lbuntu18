@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/</link>
+    <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://163168.xyz/categories/hugo/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://163168.xyz/categories/linux/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://163168.xyz/categories/ubuntu/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站</title>
+      <link>https://163168.xyz/categories/%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://163168.xyz/categories/docker/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://163168.xyz/categories/home-assistant/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/home-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N1</title>
+      <link>https://163168.xyz/categories/n1/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/n1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openwrt</title>
+      <link>https://163168.xyz/categories/openwrt/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/openwrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>宝塔</title>
+      <link>https://163168.xyz/categories/%E5%AE%9D%E5%A1%94/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%AE%9D%E5%A1%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://163168.xyz/categories/github/</link>
+      <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LG V30</title>
+      <link>https://163168.xyz/categories/lg-v30/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/lg-v30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>root</title>
+      <link>https://163168.xyz/categories/root/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>刷机</title>
+      <link>https://163168.xyz/categories/%E5%88%B7%E6%9C%BA/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%88%B7%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安卓手机</title>
+      <link>https://163168.xyz/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudflare</title>
+      <link>https://163168.xyz/categories/cloudflare/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k2p</title>
+      <link>https://163168.xyz/categories/k2p/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/k2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>域名</title>
+      <link>https://163168.xyz/categories/%E5%9F%9F%E5%90%8D/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%9F%9F%E5%90%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>路由</title>
+      <link>https://163168.xyz/categories/%E8%B7%AF%E7%94%B1/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E8%B7%AF%E7%94%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APK Downloader</title>
+      <link>https://163168.xyz/categories/apk-downloader/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/apk-downloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheome插件</title>
+      <link>https://163168.xyz/categories/cheome%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/cheome%E6%8F%92%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安卓软件</title>
+      <link>https://163168.xyz/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recovery</title>
+      <link>https://163168.xyz/categories/recovery/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twrp</title>
+      <link>https://163168.xyz/categories/twrp/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/twrp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黑苹果</title>
+      <link>https://163168.xyz/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edxposed</title>
+      <link>https://163168.xyz/categories/edxposed/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/edxposed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xposed</title>
+      <link>https://163168.xyz/categories/xposed/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/xposed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>三星健康</title>
+      <link>https://163168.xyz/categories/%E4%B8%89%E6%98%9F%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E4%B8%89%E6%98%9F%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>支付宝运动</title>
+      <link>https://163168.xyz/categories/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BF%90%E5%8A%A8/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BF%90%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://163168.xyz/categories/mac/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PE</title>
+      <link>https://163168.xyz/categories/pe/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/pe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑系统</title>
+      <link>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑软件</title>
+      <link>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>驱动</title>
+      <link>https://163168.xyz/categories/%E9%A9%B1%E5%8A%A8/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E9%A9%B1%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo</title>
+      <link>https://163168.xyz/categories/hexo/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsdelivr</title>
+      <link>https://163168.xyz/categories/jsdelivr/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/jsdelivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PicGo</title>
+      <link>https://163168.xyz/categories/picgo/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/picgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>百度网盘下载</title>
+      <link>https://163168.xyz/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</link>
+      <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>斐讯N1</title>
+      <link>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E6%96%90%E8%AE%AFn1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lnmp</title>
+      <link>https://163168.xyz/categories/lnmp/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/lnmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://163168.xyz/categories/mysql/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://163168.xyz/categories/nginx/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omv</title>
+      <link>https://163168.xyz/categories/omv/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/omv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typecho</title>
+      <link>https://163168.xyz/categories/typecho/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/typecho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrome</title>
+      <link>https://163168.xyz/categories/chrome/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tampermonkey</title>
+      <link>https://163168.xyz/categories/tampermonkey/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/tampermonkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>https://163168.xyz/categories/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

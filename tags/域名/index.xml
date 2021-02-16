@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>域名 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E5%9F%9F%E5%90%8D/</link>
+    <description>Recent content in 域名 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Jan 2020 13:10:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E5%9F%9F%E5%90%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k2p老毛子固件绑定域名之 cloudflare.com</title>
+      <link>https://163168.xyz/posts/20.html/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/20.html/</guid>
+      <description>k2p老毛子固件绑定域名之 cloudflare.com 使用 Cloudflare 实现顶级个人域名的 ddns 服务。 https://www.cloudflare.com 使用前需要安装 curl 程序，可以安装opt后输入 opkg install curl 敲回车键安装启用opt 点击获取</description>
+    </item>
+    
+    <item>
+      <title>Github 绑定域名添加https的方法2019年9月更新</title>
+      <link>https://163168.xyz/posts/5.html/</link>
+      <pubDate>Sat, 14 Sep 2019 15:40:43 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/5.html/</guid>
+      <description>官方教程 https://help.github.com/en/articles/using-a-custom-domain-with-github-pages 打开 https://github.com/ 打开 https://github.com/waimao8/waimao8.github.io/settings 绑定域名：163168.xyz 打开你要绑定域名的项目，进入设置页面。并在 Github Pages - Custom domain 这一栏填上你的网址 163168.xyz 在source 目</description>
+    </item>
+    
+  </channel>
+</rss>

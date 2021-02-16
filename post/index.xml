@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ubuntu安装hugo教程</title>
+      <link>https://163168.xyz/posts/26.html/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/26.html/</guid>
+      <description>ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local</description>
+    </item>
+    
+    <item>
+      <title>n1终极玩法Armbian-5.77安装docker宝塔openwrt和HomeAssistant</title>
+      <link>https://163168.xyz/posts/23.html/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/23.html/</guid>
+      <description>安装Armbian-5.77 https://www.right.com.cn/forum/thread-510423-1-1.html 下载Armbian-5.77写入U盘 替换低负载的dtb meson-gxl-s905d-phicomm-n1-xiangsm.dtb 开启bbr 在/etc/sysctl.conf末尾添加下</description>
+    </item>
+    
+    <item>
+      <title>hugo搭建和使用教程</title>
+      <link>https://163168.xyz/posts/22.html/</link>
+      <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/22.html/</guid>
+      <description>前言 做博客就图个稳定，一次性买了10年的域名，搭配免费的github，适合做长期博客。 之前安装的hexo，可玩性非常强，前面文章有写一些关于</description>
+    </item>
+    
+    <item>
+      <title>LG V30 韩版V300L 8.0 9.0 root刷类原生系统Havoc 10.0的详细过程</title>
+      <link>https://163168.xyz/posts/21.html/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/21.html/</guid>
+      <description>前言 官方系统：刷机root后，未安装其他软件，开机scene查看内存占50%， 安装日常软件，开发者选项里面，系统可用用内存一般在200左右 Havoc</description>
+    </item>
+    
+    <item>
+      <title>k2p老毛子固件绑定域名之 cloudflare.com</title>
+      <link>https://163168.xyz/posts/20.html/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/20.html/</guid>
+      <description>k2p老毛子固件绑定域名之 cloudflare.com 使用 Cloudflare 实现顶级个人域名的 ddns 服务。 https://www.cloudflare.com 使用前需要安装 curl 程序，可以安装opt后输入 opkg install curl 敲回车键安装启用opt 点击获取</description>
+    </item>
+    
+    <item>
+      <title>关于微店购物的相关问题</title>
+      <link>https://163168.xyz/posts/19.html/</link>
+      <pubDate>Fri, 27 Dec 2019 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/19.html/</guid>
+      <description>关于微店回复慢 因实体批发比较繁忙，经常回复会比较慢，谢理解！大家可以先看下下面的相关解答哈！有不清楚的还可以咨询我们的哈！ 关于发货 默认中通，</description>
+    </item>
+    
+    <item>
+      <title>LG V30韩版 ROOT详细教程</title>
+      <link>https://163168.xyz/posts/18.html/</link>
+      <pubDate>Mon, 23 Dec 2019 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/18.html/</guid>
+      <description>前言 2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，</description>
+    </item>
+    
+    <item>
+      <title>解决安卓手机卡顿 安装google商店官方软件的方法</title>
+      <link>https://163168.xyz/posts/17.html/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/17.html/</guid>
+      <description>下载play.google.com商店软件的方法 国内安卓软件多数都是比较流氓，内存占用大，弹广告，要想手机流畅运行，建议尽量使用google</description>
+    </item>
+    
+    <item>
+      <title>黑苹果给安卓手机刷入twrp recovery教程</title>
+      <link>https://163168.xyz/posts/16.html/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/16.html/</guid>
+      <description>手机设置 点击设置，系统，关机手机，版本号联系点击三下，进入开发者模式，找到开发者选项，打开OME解锁，打开Android调试，打开网络ADB</description>
+    </item>
+    
+    <item>
+      <title>支付宝通过三星健康修改步数的教程和注意事项</title>
+      <link>https://163168.xyz/posts/15.html/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/15.html/</guid>
+      <description>支付宝通过三星健康修改步数的教程和注意事项 全部软件下载地址（担心以后新版的支付宝不能同步，所以在网盘也放了最近的三个支付宝，酷安下载的） https://www.lanzous.com/b059xem4d 安</description>
+    </item>
+    
+    <item>
+      <title>小白电脑安装windows系统，linxu和黑苹果的相关资料</title>
+      <link>https://163168.xyz/posts/14.html/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/14.html/</guid>
+      <description>电脑安装系统必备 操作系统下载 官方系统 http://msdn.itellyou.cn/ https://tb.rg-adguard.net/public.php 第三方系统 http://twm000.top/ http://www.uqi.me/ https://icura.cn/ PE http://www.wepe.com.cn/ https://www.itsk.com/topic-software.html http://www.myfeng.cn/ 驱动 https://www.sysceo.com/ https://www.160.com/ http://www.drivergenius.com/ http://weishi.360.cn/qudongdashi/index.html https://www.ludashi.com/ 系统激活 http://twm000.ys168.com/ 精品软件下载 https://www.landiannews.com/ https://www.appcgn.com/ https://www.repaik.com/ http://www.carrotchou.blog/ https://www.ccava.net/ https://www.luochenzhimu.com/ https://hrtsea.com/ 国产杀毒推荐 https://www.huorong.cn/ https://www.wisevector.com/ 杀毒论坛推</description>
+    </item>
+    
+    <item>
+      <title>图床搭建的最佳选择 PicGo &#43; Github &#43; Jsdelivr免费公用CDN加速.</title>
+      <link>https://163168.xyz/posts/12.html/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/12.html/</guid>
+      <description>图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速 Github创建仓库 点击 New repository 创建好后，获取Token 这个Token只出现一次的，</description>
+    </item>
+    
+    <item>
+      <title>Nexus 5X手机在支付宝的蚂蚁森林自动收能量的过程.</title>
+      <link>https://163168.xyz/posts/11.html/</link>
+      <pubDate>Tue, 10 Dec 2019 00:21:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/11.html/</guid>
+      <description>下载刷机包 https://downloads.aospextended.com/bullhead 个人觉得aospextended的rom比较省电，其他刷机包或者不刷机也是可以的，只要是手机不能杀支付宝的后台就行，如果需要用都</description>
+    </item>
+    
+    <item>
+      <title>百度网盘不限速下载的一些方法</title>
+      <link>https://163168.xyz/posts/10.html/</link>
+      <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/10.html/</guid>
+      <description>ENFI 下载地址 http://www.enfi.cloud/ 需要搭配enfi下载助手 用P2P下载技术，支持HTTP，BT，磁力链等各种协议，高速下载让你摆脱限速的困扰，从此告别低速 这个可以</description>
+    </item>
+    
+    <item>
+      <title>戴尔笔记本E6430安装黑苹果的全部过程</title>
+      <link>https://163168.xyz/posts/9.html/</link>
+      <pubDate>Sun, 08 Dec 2019 19:21:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/9.html/</guid>
+      <description>寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover</description>
+    </item>
+    
+    <item>
+      <title>N1安装omv后安装docker&#43;transmission&#43;lnmp搭建网站</title>
+      <link>https://163168.xyz/posts/8.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/8.html/</guid>
+      <description>N1安装好omv后， 进入系统，常规设置，修改web管理员密码，需要安装的lnmp搭建网站的话，还需要修改端口，自动登出时间可以设置为1天。 进</description>
+    </item>
+    
+    <item>
+      <title>斐讯N1安Armbian安装OMV安装nginx&#43;mysql安装typecho全过程</title>
+      <link>https://163168.xyz/posts/7.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/7.html/</guid>
+      <description>安装armbian 测试了很多版本的Armbian+omv，OMV经常会报错，改用了XQ7的N1首个支持FullCone Nat的Armbian</description>
+    </item>
+    
+    <item>
+      <title>斐讯N1 docker安装homeassistant  配置斐讯dc1智能插座</title>
+      <link>https://163168.xyz/posts/6.html/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/6.html/</guid>
+      <description>斐讯N1 docker安装homeassistant 配置斐讯dc1智能插座 默认代码 1 2 docker run -d --restart=always --name=&amp;#34;home-assistant&amp;#34; -e TZ=Asia/Shanghai -v /var/lib/docker/homeassistant:/config -p 8123:8123 -v /etc/localtime:/etc/localtime:ro --net=host homeassistant/aarch64-homeassistant:latest homeassistant</description>
+    </item>
+    
+    <item>
+      <title>Github 绑定域名添加https的方法2019年9月更新</title>
+      <link>https://163168.xyz/posts/5.html/</link>
+      <pubDate>Sat, 14 Sep 2019 15:40:43 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/5.html/</guid>
+      <description>官方教程 https://help.github.com/en/articles/using-a-custom-domain-with-github-pages 打开 https://github.com/ 打开 https://github.com/waimao8/waimao8.github.io/settings 绑定域名：163168.xyz 打开你要绑定域名的项目，进入设置页面。并在 Github Pages - Custom domain 这一栏填上你的网址 163168.xyz 在source 目</description>
+    </item>
+    
+    <item>
+      <title>hexo博客优化之文章置顶&#43;置顶标签</title>
+      <link>https://163168.xyz/posts/4.html/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:23 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/4.html/</guid>
+      <description>支持置顶的仓库 可以直接用以下命令安装 1 2 $ npm uninstall hexo-generator-index --save $ npm install hexo-generator-index-pin-top --save 然后在需要置顶的文章的Front-matter中加上top: true即可。 设置置</description>
+    </item>
+    
+    <item>
+      <title>chrome安装Tampermonkey，添加插件的过程</title>
+      <link>https://163168.xyz/posts/13.html/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/13.html/</guid>
+      <description>chrome安装Tampermonkey，添加插件的过程 安装谷歌访问助手 打开google搜索和https://play.google.com</description>
+    </item>
+    
+    <item>
+      <title>hexo博客备份迁移教程</title>
+      <link>https://163168.xyz/posts/3.html/</link>
+      <pubDate>Wed, 11 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/3.html/</guid>
+      <description>hexo备份 新建repository 在Github下创建一个新的repository，取名为myblog。(与本地的Hexo源码文件夹同名即</description>
+    </item>
+    
+    <item>
+      <title>github搭建hexo博客和绑定域名的详细过程</title>
+      <link>https://163168.xyz/posts/2.html/</link>
+      <pubDate>Mon, 09 Sep 2019 19:21:48 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/2.html/</guid>
+      <description>1、https://github.com/ 先注册账号 比如我的是 waimao8 2、New repository waimao8.github.io 3、下载git https://git-scm.com/downloads 默认安装 安装好后，用git &amp;ndash;version 来查看一下版本 4、</description>
+    </item>
+    
+    <item>
+      <title>hexo安装后的使用教程</title>
+      <link>https://163168.xyz/posts/1.html/</link>
+      <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/1.html/</guid>
+      <description>​ 安装主题（next） git clone https://github.com/theme-next/hexo-theme-next themes/next 下载主题解压后放到themes目录 编辑主目录的_config.yml 查找language 设置 language: zh-CN 搜索Schem</description>
+    </item>
+    
+  </channel>
+</rss>

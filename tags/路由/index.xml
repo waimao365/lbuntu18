@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>路由 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E8%B7%AF%E7%94%B1/</link>
+    <description>Recent content in 路由 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 Jan 2020 13:10:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E8%B7%AF%E7%94%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>k2p老毛子固件绑定域名之 cloudflare.com</title>
+      <link>https://163168.xyz/posts/20.html/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/20.html/</guid>
+      <description>k2p老毛子固件绑定域名之 cloudflare.com 使用 Cloudflare 实现顶级个人域名的 ddns 服务。 https://www.cloudflare.com 使用前需要安装 curl 程序，可以安装opt后输入 opkg install curl 敲回车键安装启用opt 点击获取</description>
+    </item>
+    
+  </channel>
+</rss>
