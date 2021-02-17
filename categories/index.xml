@@ -53,6 +53,24 @@
     </item>
     
     <item>
+      <title>archlinux</title>
+      <link>https://163168.xyz/categories/archlinux/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/archlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑系统</title>
+      <link>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>docker</title>
       <link>https://163168.xyz/categories/docker/</link>
       <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
@@ -283,15 +301,6 @@
       <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
       
       <guid>https://163168.xyz/categories/pe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>电脑系统</title>
-      <link>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
-      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
-      
-      <guid>https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
       <description></description>
     </item>
     
