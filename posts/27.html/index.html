@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="waimao365" /><meta name="description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy pacman -S net-tools openssh 5、" /><meta name="keywords" content="Hugo, theme, even" />
+<meta name="author" content="waimao365" /><meta name="description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 手敲键盘部分 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy" /><meta name="keywords" content="Hugo, theme, even" />
 
 
 
@@ -40,23 +40,23 @@
 
 
 <meta property="og:title" content="利用ssh复杂粘贴安装archlinux教程" />
-<meta property="og:description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy pacman -S net-tools openssh 5、" />
+<meta property="og:description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 手敲键盘部分 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://163168.xyz/posts/27.html/" />
 <meta property="article:published_time" content="2021-02-15T08:55:30+00:00" />
 <meta property="article:modified_time" content="2021-02-15T08:55:30+00:00" />
 <meta itemprop="name" content="利用ssh复杂粘贴安装archlinux教程">
-<meta itemprop="description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy pacman -S net-tools openssh 5、">
+<meta itemprop="description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 手敲键盘部分 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy">
 <meta itemprop="datePublished" content="2021-02-15T08:55:30+00:00" />
 <meta itemprop="dateModified" content="2021-02-15T08:55:30+00:00" />
-<meta itemprop="wordCount" content="93">
+<meta itemprop="wordCount" content="2231">
 
 
 
 <meta itemprop="keywords" content="archlinux,linux,电脑系统," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="利用ssh复杂粘贴安装archlinux教程"/>
-<meta name="twitter:description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy pacman -S net-tools openssh 5、"/>
+<meta name="twitter:description" content="官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 手敲键盘部分 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -142,8 +142,8 @@
             <a href="/categories/linux/"> linux </a>
             <a href="/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/"> 电脑系统 </a>
             </div>
-          <span class="more-meta"> 约 93 字 </span>
-          <span class="more-meta"> 预计阅读 1 分钟 </span>
+          <span class="more-meta"> 约 2231 字 </span>
+          <span class="more-meta"> 预计阅读 5 分钟 </span>
         
       </div>
     </header>
@@ -151,12 +151,23 @@
     <div class="post-toc" id="post-toc">
   <h2 class="post-toc-title">文章目录</h2>
   <div class="post-toc-content always-active">
-    <nav id="TableOfContents"></nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#官方安装教程">官方安装教程</a></li>
+        <li><a href="#手敲键盘部分">手敲键盘部分</a></li>
+        <li><a href="#复制粘帖部分">复制粘帖部分</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
   </div>
 </div>
     <div class="post-content">
-      <p>官方安装教程
-<a href="https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)">https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)</a></p>
+      <h2 id="官方安装教程">官方安装教程</h2>
+<p><a href="https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)">https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)</a></p>
+<h2 id="手敲键盘部分">手敲键盘部分</h2>
 <p>开启SSH</p>
 <p>首先设置root的密码 passwd</p>
 <p>回车之后输入root的密码即可</p>
@@ -173,6 +184,298 @@ pacman -S net-tools openssh</p>
 wifi-menu # wifi
 ping <a href="http://www.baidu.com">www.baidu.com</a></p>
 <p>ctrt+c  #退出ping</p>
+<h2 id="复制粘帖部分">复制粘帖部分</h2>
+<p>用ssh软件登录</p>
+<p>windows推荐Xshell        linux推荐putty</p>
+<p>登录后就可以复制下面代码敲回车就可以了。</p>
+<p>查看磁盘信息  sda</p>
+<p>fdisk -l  # 查看磁盘信息  我查看的是sda 下面请把sda改成你的就可以了</p>
+<p>硬盘分区有两种方法，请选一种 cfdisk是图像化的  fdisk是纯命令的
+#方法一：图像化的操作
+cfdisk /dev/sda
+分别用new新建三个分区 分别选择Type 选择类型
+sda1   512M  EFI system
+sda3    4G      linux swap      # 不要大于虚拟机实际内存
+sda2   默认剩余全部 linux filesystem<br>
+分好后选择Write写入 选择
+Quit退出</p>
+<p>#方法二：纯命令的操作</p>
+<p>fdisk /dev/sda
+输入m #显示菜单
+输入p #显示硬盘情况
+输入M 输入g   # 硬盘更改成GPT分区</p>
+<p>输入n # 分区
+先选择1 回车再回车再输入+512M
+输入t 输入1  # 可以输入L查看格式
+输入W
+输入m<br>
+输入n输入n # 分区
+先选择3 回车再回车再输入+4G
+输入t 输入19
+输入W
+输入m<br>
+输入n输入n # 分区
+先选择2 回车再回车再回车<br>
+#剩余目录会自动全部分配到这里
+sda2无需更改格式 默认是就是linux filesystem
+输入W
+最后输入q退出分区
+下面命令直接打复制粘贴就可以了  sda1，2，3 请改成你自己的</p>
+<p>#上面是两种硬盘分区教程，随便选一种吧，下面要格式化硬盘
+fdisk -l  # 查看磁盘信息
+下面的命令直接打复制粘贴就可以了  sda1，2，3 请改成你自己的</p>
+<p>mkfs.fat -F32 /dev/sda1
+mkfs.ext4 /dev/sda2
+mkswap /dev/sda3
+swapon /dev/sda3</p>
+<p>挂载根分区到/mnt下</p>
+<p>mount /dev/sda2 /mnt</p>
+<p>创建 boot 文件夹 来挂载EFI分区</p>
+<p>mkdir /mnt/boot</p>
+<p>挂载EFI分区到 /mnt/boot 下</p>
+<p>mount /dev/sda1 /mnt/boot</p>
+<p>df 查看挂载情况</p>
+<p>#编辑软件源</p>
+<p>nano /etc/pacman.d/mirrorlist  #fdisk -k 删除多余的源，fdisk -x 退出 y 回车
+我选了下面三个，选一个也行
+<a href="https://mirrors.tuna.tsinghua.edu.cn/">https://mirrors.tuna.tsinghua.edu.cn/</a>
+mirrors.tuna.tsinghua.edu.cn
+Server = <a href="https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch">https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch</a>
+Server = <a href="http://mirrors.163.com/archlinux/$repo/os/$arch">http://mirrors.163.com/archlinux/$repo/os/$arch</a>
+Server = <a href="http://mirrors.aliyun.com/archlinux/$repo/os/$arch">http://mirrors.aliyun.com/archlinux/$repo/os/$arch</a></p>
+<p>Server = <a href="https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$repo/os/$arch">https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$repo/os/$arch</a>
+Server = <a href="https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch">https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch</a>
+Server = <a href="http://mirrors.163.com/archlinux/$repo/os/$arch">http://mirrors.163.com/archlinux/$repo/os/$arch</a>
+Server = <a href="http://mirrors.163.com/archlinux-cn/$repo/os/$arch">http://mirrors.163.com/archlinux-cn/$repo/os/$arch</a></p>
+<p>更新系统
+pacman -Syy</p>
+<p>安装必须的软件包 （不建议）</p>
+<p>pacstrap /mnt base linux linux-firmware</p>
+<p>安装加强版的软件包 （建议）</p>
+<p>pacstrap /mnt base linux linux-firmware base-devel networkmanager intel-ucode vim git openssh net-tools</p>
+<p>用以下命令生成 fstab 文件 (用 -U 或 -L 选项设置UUID 或卷标)：</p>
+<p>genfstab -U /mnt &raquo; /mnt/etc/fstab</p>
+<p>cat /mnt/etc/fstab
+检查
+vim /mnt/etc/fstab</p>
+<p>Change root 到新安装的系统：</p>
+<p>arch-chroot /mnt</p>
+<p>#设置时区：
+ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime</p>
+<p>#同步时区
+hwclock &ndash;systohc</p>
+<p>安装vim
+pacman -S vim</p>
+<p>本地化：</p>
+<p>设置系统语言</p>
+<p>vim /etc/locale.gen
+nano /etc/locale.gen</p>
+<p>把 en_US.UTF-8 UTF-8和zh_CN.UTF-8 UTF-8注释都去掉之后 按esc退出编辑模式，然后 :wq 保存退出</p>
+<p>生成一下语言</p>
+<p>locale-gen</p>
+<p>最后设置缺省的语言，这里推荐使用英文，不然到时候进入命令模式的时候会出现中文乱码</p>
+<p>echo LANG=en_US.UTF-8 &raquo; /etc/locale.conf
+echo LANG=zh_CN.UTF-8 &raquo; /etc/locale.conf
+sudo vim /etc/locale.conf</p>
+<p>这里使用一个箭头或者两个箭头都可以</p>
+<p>设置 主机名</p>
+<p>echo archlinux &raquo; /etc/hostname</p>
+<p>#网络配置
+vim /etc/hosts  #输入下面内容</p>
+<p>127.0.0.1 localhost
+::1 localhost
+127.0.1.1 archlinux.localdomain archlinux</p>
+<p>127.0.0.1    localhost    localhost
+::1          localhost   localhost
+127.0.1.1    archlinux.localdomain    archlinux</p>
+<p>保存并退出</p>
+<p>安装网络管理（如果不安装这个服务的话，每次开机都得重新设置网络）
+pacman -S networkmanager
+pacman -S net-tools openssh
+开机启动
+systemctl enable NetworkManager sshd</p>
+<p>设置root密码
+passwd</p>
+<p>安装一个其他用户
+useradd -m -g wheel chenan</p>
+<p>passwd chenan</p>
+<p>pacman -S sudo</p>
+<p>visudo   # 去掉%wheel=（ALL）ALL 前面的#号</p>
+<p>安装grub
+重新生成ramdisk环境
+mkinitcpio -p linux</p>
+<p>pacman -S grub efibootmgr
+grub-install &ndash;target=x86_64-efi &ndash;efi-directory=/boot &ndash;bootloader-id=GRUB
+grub-mkconfig -o /boot/grub/grub.cfg</p>
+<p>exit 或按 Ctrl+d 退出 chroot 环境。</p>
+<p>可选用 umount -R /mnt 手动卸载被挂载的分区：这有助于发现任何「繁忙」的分区，并通过 fuser(1) 查找原因。</p>
+<p>最后，通过执行 reboot 重启系统</p>
+<p>sudo vim /etc/pacman.conf
+把multilib和它下面一行的 # 去掉，具体是把光标移到 # 那，按 x ，然后在文件里添加 archlinuxcn 源，按 i 输入
+[archlinuxcn]
+Server = <a href="https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch">https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch</a></p>
+<p>sudo pacman -Syu</p>
+<p>sudo pacman -S archlinuxcn-keyring</p>
+<p>sudo pacman -Syyu   #更新到最新系统
+安装x 服务
+sudo pacman -S xorg</p>
+<p>安装桌面环境
+sudo pacman -S xfce4 xfce4-goodies
+安装字体
+sudo pacman -S ttf-dejavu wqy-bitmapfont wqy-microhei wqy-zenhei noto-fonts noto-fonts-emoji</p>
+<p>安装ligthdm
+pacman -S lightdm lightdm-gtk-greeter</p>
+<p>sudo pacman -S lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings
+systemctl enable lightdm</p>
+<p>systemctl enable lightdm.service</p>
+<p>从图形界面进入到命令行界面</p>
+<p>systemctl disable lightdm.service
+从命令行进入到图形界面</p>
+<p>systemctl enable lightdm.service
+然后</p>
+<p>systemctl start lightdm.service</p>
+<p>测试开启桌面
+sudo systemctl start lightdm.service</p>
+<p>自动开启桌面
+systemctl enable lightdm.service</p>
+<p>安装声卡驱动
+sudo pacman -S alsa-utils pulseaudio-alsa</p>
+<p>虚拟机显卡驱动
+pcaman -S xf86-video-vesa</p>
+<p>安装软件商店
+sudo pacman -S pamac</p>
+<p>安装yay
+sudo pacman -S yay
+sudo pacman -S pcaman</p>
+<p>英文改中文
+sudo vim /etc/locale.conf
+LANG=en_US.UTF-8  改成 LANG=zh_CN.UTF-8</p>
+<p>按照官网教程安装VMware Tools
+<a href="https://wiki.archlinux.org/index.php/VMware/Install_Arch_Linux_as_a_guest">https://wiki.archlinux.org/index.php/VMware/Install_Arch_Linux_as_a_guest</a></p>
+<p>sudo pacman -S xf86-input-vmmouse xf86-video-vmware mesa</p>
+<p>sudo pacman -S open-vm-tools gtkmm3</p>
+<p>sudo systemctl start vmtoolsd.service</p>
+<p>sudo systemctl enable vmtoolsd.service</p>
+<p>sudo systemctl start vmware-vmblock-fuse.service</p>
+<p>sudo systemctl enable vmware-vmblock-fuse.service</p>
+<p>sudo pacman -S gtkmm gtk2</p>
+<p>sudo vim /etc/mkinitcpio.conf
+MODULES=(）前面加# 下一行加上下面的代码
+MODULES=(vsock vmw_vsock_vmci_transport vmw_balloon vmw_vmci vmwgfx)</p>
+<p>Xorg设置
+pacman -S xf86-input-vmmouse xf86-video-vmware mesa
+yay -S xf86-input-vmmouse xf86-video-vmware mesa</p>
+<p>vim /etc/X11/Xwrapper.config</p>
+<p>needs_root_rights=yes</p>
+<p>安装小企鹅
+sudo pacman -S fcitx fcitx-im fcitx-configtool</p>
+<p>sudo pacman -S fcitx fcitx-im</p>
+<p>配置小企鹅输入法
+sudo vim ~/.xprofile</p>
+<p>在文件中加入如下几行配置：</p>
+<p>#fcitx
+export LC_ALL=zh_CN.UTF-8
+export GTK_IM_MODULE=fcitx <br>
+export QT_IM_MODULE=fcitx <br>
+export XMODIFIERS=&quot;@im=fcitx&quot;</p>
+<p>安装搜狗输入法
+sudo pacman -S yay
+yay -S fcitx-sogoupinyin
+yay -S fcitx-qt4</p>
+<p>从AUR下载安装包并安装
+打开https://aur.archlinux.org/
+<a href="https://aur.archlinux.org/packages/deepin.com.qq.im.light/">https://aur.archlinux.org/packages/deepin.com.qq.im.light/</a>
+解压
+tar -zxvf deepin.com.qq.im.light.tar.gz
+在解压后的目录输入
+makepkg -s
+编译完成后会生成一个.pkg.tar.xz的文件,再用pacman -U执行本地安装
+pacman -U deepin.com.qq.im.light-7.9.14308deepin8-4-x86_64.pkg.tar.zst</p>
+<p>tar -zxvf  deepin-wine-wechat.tar.gz</p>
+<p>pacman -U deepin.com.qq.im.light.tar.gz</p>
+<p>其他中文输入法
+谷歌输入法
+sudo pacman -S fcitx-googlepinyin</p>
+<p>常用软件安装</p>
+<p>wps</p>
+<p><a href="https://linux.wps.cn/">https://linux.wps.cn/</a>
+yay -S wps-office
+安装中文
+yay -S wps-office-mui-zh-cn</p>
+<p>可以到软件商店设置里面开启AUR
+找到wps-office-mui-zh-cn 点击构建  耐心等待几分钟，安装后 新建一个文档
+右上角有个A字，点击，就可以选择中文，重启WPS 就是中文的了</p>
+<p>yaourt -S deepin.com.qq.im</p>
+<p>yaourt -S deepin-wine deepin-wine32</p>
+<p>wps 依赖字体</p>
+<p>sudo pacman -S ttf-wps-fonts</p>
+<p>google-chrome
+sudo pacman -S google-chrome</p>
+<p>Markdown编辑器
+sudo pacman -S typora</p>
+<p>网易云音乐
+sudo pacman -S netease-cloud-music
+yaourt -S netease-cloud-music</p>
+<p><a href="https://www.bilibili.com/video/BV14J411i72o?from=search&amp;seid=10908065740456618903">https://www.bilibili.com/video/BV14J411i72o?from=search&amp;seid=10908065740456618903</a>
+<a href="https://github.com/xylzq/arch">https://github.com/xylzq/arch</a>
+关于arch的一些实用软件</p>
+<p>1.录屏软件</p>
+<p>sudo pacman -S simplescreenrecorder
+2.显示按键软件</p>
+<p>sudo pacman -S screenkey
+3.剪辑视频软件</p>
+<p>sudo pacman -S kdenlive
+汉化
+sudo mv kdenlive.mo /usr/share/locale/zh_CN/LC_MESSAGES/</p>
+<p>pan.baidu.com/s/1dFF8kp
+4.修图软件</p>
+<p>sudo pacman -S gimp</p>
+<p>安装坚果云
+sudo pacman -S nutstore</p>
+<p>安装微信
+sudo pacman -S electronic-wechat</p>
+<p>安装
+sudo pacman -S yaourt</p>
+<p>网盘同步Rclone
+sudo pacman -S rclone</p>
+<p>gitkraken -Git管理工具</p>
+<p>sudo pacman -S gitkraken
+Vscode:visual-studio-code-bin
+yay -S visual-studio-code-bin</p>
+<p>Virtualbox
+sudo pacman -S virtualbox</p>
+<p>aur qq
+<a href="https://aur.archlinux.org/packages/deepin.com.qq.im.light/">https://aur.archlinux.org/packages/deepin.com.qq.im.light/</a></p>
+<p><a href="https://github.com/orangbus/tool">https://github.com/orangbus/tool</a></p>
+<p>画图软件 KRITA</p>
+<p>安装AppImage软件
+添加可执行权限
+chmod a+x <em>.AppImage
+执行它！
+./</em>.AppImage</p>
+<p>chmod a+x Qv2ray.v2.7.0-pre1.linux-x64.AppImage
+./Qv2ray.v2.7.0-pre1.linux-x64.AppImage</p>
+<p>一个将deb包转换成pkg包的软件
+debtap配置安装
+sudo pacman -S pkgfile
+git clone <a href="https://github.com/helixarch/debtap">https://github.com/helixarch/debtap</a>
+cd debtap
+sudo cp debtap /usr/local/bin
+sudo debtap -u</p>
+<p>sudo vim /usr/bin/debtap</p>
+<p>使用方法
+sudo debtap xxxx.deb</p>
+<p>安装时会提示输入包名，以及license。包名随意，license就填GPL</p>
+<p>安装转换好的本地包
+sudo pacman -U xxx.tar.xz</p>
+<p>sudo debtap wps-office_11.1.0.9719_amd64.deb</p>
+<p>sudo pacman -U wps-office-11.1.0.9719-1-x86_64.pkg.tar.zst</p>
+<p>sudo debtap Tenvideo_universal_1.0.10_amd64.deb</p>
+<p>sudo pacman -U tenvideo-universal-1.0.10-1-x86_64.pkg.tar.zst</p>
+<p>安装安卓模拟器xDroid</p>
+<p><a href="https://www.linzhuotech.com/">https://www.linzhuotech.com/</a></p>
+<p>系统更新
+sudo pacman -Syu</p>
 
     </div>
 
