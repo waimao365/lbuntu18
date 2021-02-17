@@ -6,11 +6,11 @@
     <description>Recent content in 电脑系统 on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Feb 2021 15:55:30 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 08:55:30 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用ssh复杂粘贴安装archlinux教程</title>
       <link>https://163168.xyz/posts/27.html/</link>
-      <pubDate>Mon, 15 Feb 2021 15:55:30 +0000</pubDate>
+      <pubDate>Mon, 15 Feb 2021 08:55:30 +0000</pubDate>
       
       <guid>https://163168.xyz/posts/27.html/</guid>
       <description>官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy pacman -S net-tools openssh 5、</description>
