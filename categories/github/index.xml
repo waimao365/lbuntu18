@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/github/</link>
+    <description>Recent content in Github on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 Jun 2020 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo搭建和使用教程</title>
+      <link>https://163168.xyz/posts/22.html/</link>
+      <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/22.html/</guid>
+      <description>前言 做博客就图个稳定，一次性买了10年的域名，搭配免费的github，适合做长期博客。 之前安装的hexo，可玩性非常强，前面文章有写一些关于</description>
+    </item>
+    
+    <item>
+      <title>图床搭建的最佳选择 PicGo &#43; Github &#43; Jsdelivr免费公用CDN加速.</title>
+      <link>https://163168.xyz/posts/12.html/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/12.html/</guid>
+      <description>图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速 Github创建仓库 点击 New repository 创建好后，获取Token 这个Token只出现一次的，</description>
+    </item>
+    
+    <item>
+      <title>Github 绑定域名添加https的方法2019年9月更新</title>
+      <link>https://163168.xyz/posts/5.html/</link>
+      <pubDate>Sat, 14 Sep 2019 15:40:43 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/5.html/</guid>
+      <description>官方教程 https://help.github.com/en/articles/using-a-custom-domain-with-github-pages 打开 https://github.com/ 打开 https://github.com/waimao8/waimao8.github.io/settings 绑定域名：163168.xyz 打开你要绑定域名的项目，进入设置页面。并在 Github Pages - Custom domain 这一栏填上你的网址 163168.xyz 在source 目</description>
+    </item>
+    
+  </channel>
+</rss>

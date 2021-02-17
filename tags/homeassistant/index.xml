@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homeassistant on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/homeassistant/</link>
+    <description>Recent content in homeassistant on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 16 Sep 2019 12:52:42 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/homeassistant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>斐讯N1 docker安装homeassistant  配置斐讯dc1智能插座</title>
+      <link>https://163168.xyz/posts/6.html/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/6.html/</guid>
+      <description>斐讯N1 docker安装homeassistant 配置斐讯dc1智能插座 默认代码 1 2 docker run -d --restart=always --name=&amp;#34;home-assistant&amp;#34; -e TZ=Asia/Shanghai -v /var/lib/docker/homeassistant:/config -p 8123:8123 -v /etc/localtime:/etc/localtime:ro --net=host homeassistant/aarch64-homeassistant:latest homeassistant</description>
+    </item>
+    
+  </channel>
+</rss>

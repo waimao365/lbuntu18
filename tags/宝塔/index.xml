@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宝塔 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E5%AE%9D%E5%A1%94/</link>
+    <description>Recent content in 宝塔 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jun 2020 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E5%AE%9D%E5%A1%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n1终极玩法Armbian-5.77安装docker宝塔openwrt和HomeAssistant</title>
+      <link>https://163168.xyz/posts/23.html/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/23.html/</guid>
+      <description>安装Armbian-5.77 https://www.right.com.cn/forum/thread-510423-1-1.html 下载Armbian-5.77写入U盘 替换低负载的dtb meson-gxl-s905d-phicomm-n1-xiangsm.dtb 开启bbr 在/etc/sysctl.conf末尾添加下</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>戴尔E6430 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E6%88%B4%E5%B0%94e6430/</link>
+    <description>Recent content in 戴尔E6430 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Dec 2019 19:21:42 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E6%88%B4%E5%B0%94e6430/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>戴尔笔记本E6430安装黑苹果的全部过程</title>
+      <link>https://163168.xyz/posts/9.html/</link>
+      <pubDate>Sun, 08 Dec 2019 19:21:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/9.html/</guid>
+      <description>寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover</description>
+    </item>
+    
+  </channel>
+</rss>

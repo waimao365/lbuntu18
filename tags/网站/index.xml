@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网站 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E7%BD%91%E7%AB%99/</link>
+    <description>Recent content in 网站 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Feb 2021 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E7%BD%91%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ubuntu安装hugo教程</title>
+      <link>https://163168.xyz/posts/26.html/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/26.html/</guid>
+      <description>ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local</description>
+    </item>
+    
+    <item>
+      <title>hugo搭建和使用教程</title>
+      <link>https://163168.xyz/posts/22.html/</link>
+      <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/22.html/</guid>
+      <description>前言 做博客就图个稳定，一次性买了10年的域名，搭配免费的github，适合做长期博客。 之前安装的hexo，可玩性非常强，前面文章有写一些关于</description>
+    </item>
+    
+    <item>
+      <title>k2p老毛子固件绑定域名之 cloudflare.com</title>
+      <link>https://163168.xyz/posts/20.html/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/20.html/</guid>
+      <description>k2p老毛子固件绑定域名之 cloudflare.com 使用 Cloudflare 实现顶级个人域名的 ddns 服务。 https://www.cloudflare.com 使用前需要安装 curl 程序，可以安装opt后输入 opkg install curl 敲回车键安装启用opt 点击获取</description>
+    </item>
+    
+    <item>
+      <title>hexo博客优化之文章置顶&#43;置顶标签</title>
+      <link>https://163168.xyz/posts/4.html/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:23 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/4.html/</guid>
+      <description>支持置顶的仓库 可以直接用以下命令安装 1 2 $ npm uninstall hexo-generator-index --save $ npm install hexo-generator-index-pin-top --save 然后在需要置顶的文章的Front-matter中加上top: true即可。 设置置</description>
+    </item>
+    
+    <item>
+      <title>hexo安装后的使用教程</title>
+      <link>https://163168.xyz/posts/1.html/</link>
+      <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/1.html/</guid>
+      <description>​ 安装主题（next） git clone https://github.com/theme-next/hexo-theme-next themes/next 下载主题解压后放到themes目录 编辑主目录的_config.yml 查找language 设置 language: zh-CN 搜索Schem</description>
+    </item>
+    
+  </channel>
+</rss>

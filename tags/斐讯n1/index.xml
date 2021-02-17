@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>斐讯N1 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/</link>
+    <description>Recent content in 斐讯N1 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Dec 2019 18:31:42 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>N1安装omv后安装docker&#43;transmission&#43;lnmp搭建网站</title>
+      <link>https://163168.xyz/posts/8.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/8.html/</guid>
+      <description>N1安装好omv后， 进入系统，常规设置，修改web管理员密码，需要安装的lnmp搭建网站的话，还需要修改端口，自动登出时间可以设置为1天。 进</description>
+    </item>
+    
+    <item>
+      <title>斐讯N1安Armbian安装OMV安装nginx&#43;mysql安装typecho全过程</title>
+      <link>https://163168.xyz/posts/7.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/7.html/</guid>
+      <description>安装armbian 测试了很多版本的Armbian+omv，OMV经常会报错，改用了XQ7的N1首个支持FullCone Nat的Armbian</description>
+    </item>
+    
+    <item>
+      <title>斐讯N1 docker安装homeassistant  配置斐讯dc1智能插座</title>
+      <link>https://163168.xyz/posts/6.html/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/6.html/</guid>
+      <description>斐讯N1 docker安装homeassistant 配置斐讯dc1智能插座 默认代码 1 2 docker run -d --restart=always --name=&amp;#34;home-assistant&amp;#34; -e TZ=Asia/Shanghai -v /var/lib/docker/homeassistant:/config -p 8123:8123 -v /etc/localtime:/etc/localtime:ro --net=host homeassistant/aarch64-homeassistant:latest homeassistant</description>
+    </item>
+    
+  </channel>
+</rss>

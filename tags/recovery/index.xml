@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recovery on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/recovery/</link>
+    <description>Recent content in recovery on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 18 Dec 2019 01:00:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/recovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>黑苹果给安卓手机刷入twrp recovery教程</title>
+      <link>https://163168.xyz/posts/16.html/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/16.html/</guid>
+      <description>手机设置 点击设置，系统，关机手机，版本号联系点击三下，进入开发者模式，找到开发者选项，打开OME解锁，打开Android调试，打开网络ADB</description>
+    </item>
+    
+  </channel>
+</rss>

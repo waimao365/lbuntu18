@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chrome on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/chrome/</link>
+    <description>Recent content in chrome on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 12 Sep 2019 13:01:13 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chrome安装Tampermonkey，添加插件的过程</title>
+      <link>https://163168.xyz/posts/13.html/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/13.html/</guid>
+      <description>chrome安装Tampermonkey，添加插件的过程 安装谷歌访问助手 打开google搜索和https://play.google.com</description>
+    </item>
+    
+  </channel>
+</rss>

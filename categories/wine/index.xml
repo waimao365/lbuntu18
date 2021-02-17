@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wine on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/wine/</link>
+    <description>Recent content in wine on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/wine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老爷机的福音lubuntu18.04</title>
+      <link>https://163168.xyz/posts/25.html/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/25.html/</guid>
+      <description>前言 刚238入手瑞角云，系统自带win10系统稍微有点卡，看视频1080,cpu占用80～90,寻思装台linux，在lubuntu和arc</description>
+    </item>
+    
+  </channel>
+</rss>

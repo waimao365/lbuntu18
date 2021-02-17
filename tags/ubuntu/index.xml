@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老爷机的福音lubuntu18.04</title>
+      <link>https://163168.xyz/posts/25.html/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/25.html/</guid>
+      <description>前言 刚238入手瑞角云，系统自带win10系统稍微有点卡，看视频1080,cpu占用80～90,寻思装台linux，在lubuntu和arc</description>
+    </item>
+    
+    <item>
+      <title>ubuntu安装hugo教程</title>
+      <link>https://163168.xyz/posts/26.html/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/26.html/</guid>
+      <description>ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local</description>
+    </item>
+    
+  </channel>
+</rss>
