@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>VScode更新hugo教程</title>
+      <link>https://163168.xyz/posts/28.html/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/28.html/</guid>
+      <description>ubuntu安装hugo 安装git 官网 https://git-scm.com/download/linux sudo apt-get install git 安装go https://golang.org/dl/ （有可能被墙） 下载go1.15.8.linux-amd64.tar.gz 1 sudo tar -C /usr/local</description>
+    </item>
+    
+    <item>
       <title>hugo搭建和使用教程</title>
       <link>https://163168.xyz/posts/22.html/</link>
       <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
