@@ -1,8 +1,28 @@
-#!/bin/bash
-hugo
-/home/chenan/桌面/hugo/blog/public
-git init
+#!/bin/sh
+
+# If a command fails then the deploy stops
+set -e
+
+printf "\033[0;32mDeploying updates to GitHub and Coding...\033[0m\n"
+
+# Build the project.
+hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+
+# Go To Public folder
+cd public
+
+# Add changes to git.
 git add .
-git commit -m "备注"
-git remote add origin git@github.com:waimao365/lubutu18.git
-git push
+
+# Commit changes.
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+    msg="$*"
+fi
+git commit -m "$msg"
+
+# Push source and build repos.
+git push origin master
+
+# Pull all .
+# git fetch --all && git reset --hard origin/master && git pull

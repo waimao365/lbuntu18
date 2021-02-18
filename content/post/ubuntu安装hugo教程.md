@@ -154,21 +154,13 @@ git push -u origin master
 
 
 
+### 自动部署脚本
+
+https://www.dazhuanlan.com/2019/10/14/5da3e834e0c1d/
+
+https://github.com/coderzh/coderzh-hugo-blog/blob/master/deploy.py
+
 ## 常见错误处理
-
-###  ! [rejected]        master -> master (fetch first)
-
-将github修改的文件更新到本地
-
-```
-git pull --rebase origin master 
-```
-
-再次提交：
-
-```
-git push origin master
-```
 
 
 

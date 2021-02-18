@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Sep 2019 19:21:48 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github搭建hexo博客和绑定域名的详细过程</title>
+      <link>https://163168.xyz/posts/2.html/</link>
+      <pubDate>Mon, 09 Sep 2019 19:21:48 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/2.html/</guid>
+      <description>1、https://github.com/ 先注册账号 比如我的是 waimao8 2、New repository waimao8.github.io 3、下载git https://git-scm.com/downloads 默认安装 安装好后，用git &amp;ndash;version 来查看一下版本 4、</description>
+    </item>
+    
+    <item>
+      <title>hexo安装后的使用教程</title>
+      <link>https://163168.xyz/posts/1.html/</link>
+      <pubDate>Mon, 09 Sep 2019 14:37:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/1.html/</guid>
+      <description>​ 安装主题（next） git clone https://github.com/theme-next/hexo-theme-next themes/next 下载主题解压后放到themes目录 编辑主目录的_config.yml 查找language 设置 language: zh-CN 搜索Schem</description>
+    </item>
+    
+  </channel>
+</rss>

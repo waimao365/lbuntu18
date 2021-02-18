@@ -149,6 +149,10 @@ https://code.visualstudio.com/
 
 https://github.com/gohugoio/hugo/releases
 
+
+
+## 安装windows软件
+
 ### 安装deepin-wine
 
 https://gitee.com/ch0769/deepin-wine
@@ -159,7 +163,7 @@ http://packages.deepin.com/deepin/pool/non-free/d/
 
 
 
-安装wine
+### 安装wine
 
 https://wiki.winehq.org/Download_zhcn
 

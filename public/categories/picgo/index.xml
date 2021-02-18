@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PicGo on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/picgo/</link>
+    <description>Recent content in PicGo on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Dec 2019 12:33:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/picgo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图床搭建的最佳选择 PicGo &#43; Github &#43; Jsdelivr免费公用CDN加速.</title>
+      <link>https://163168.xyz/posts/12.html/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/12.html/</guid>
+      <description>图床搭建的最佳选择 PicGo + Github + Jsdelivr免费公用CDN加速 Github创建仓库 点击 New repository 创建好后，获取Token 这个Token只出现一次的，</description>
+    </item>
+    
+  </channel>
+</rss>

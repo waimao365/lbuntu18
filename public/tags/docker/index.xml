@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/docker/</link>
+    <description>Recent content in docker on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Jun 2020 15:55:32 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n1终极玩法Armbian-5.77安装docker宝塔openwrt和HomeAssistant</title>
+      <link>https://163168.xyz/posts/23.html/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/23.html/</guid>
+      <description>安装Armbian-5.77 https://www.right.com.cn/forum/thread-510423-1-1.html 下载Armbian-5.77写入U盘 替换低负载的dtb meson-gxl-s905d-phicomm-n1-xiangsm.dtb 开启bbr 在/etc/sysctl.conf末尾添加下</description>
+    </item>
+    
+    <item>
+      <title>N1安装omv后安装docker&#43;transmission&#43;lnmp搭建网站</title>
+      <link>https://163168.xyz/posts/8.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/8.html/</guid>
+      <description>N1安装好omv后， 进入系统，常规设置，修改web管理员密码，需要安装的lnmp搭建网站的话，还需要修改端口，自动登出时间可以设置为1天。 进</description>
+    </item>
+    
+    <item>
+      <title>斐讯N1 docker安装homeassistant  配置斐讯dc1智能插座</title>
+      <link>https://163168.xyz/posts/6.html/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/6.html/</guid>
+      <description>斐讯N1 docker安装homeassistant 配置斐讯dc1智能插座 默认代码 1 2 docker run -d --restart=always --name=&amp;#34;home-assistant&amp;#34; -e TZ=Asia/Shanghai -v /var/lib/docker/homeassistant:/config -p 8123:8123 -v /etc/localtime:/etc/localtime:ro --net=host homeassistant/aarch64-homeassistant:latest homeassistant</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>戴尔笔记本E6430安装黑苹果的全部过程 - Even - A super concise theme for Hugo</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="waimao365" /><meta name="description" content="寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover" /><meta name="keywords" content="Hugo, theme, even" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.80.0 with theme even" />
+
+
+<link rel="canonical" href="https://163168.xyz/posts/9.html/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.2e81bbed97b8b282c1aeb57488cc71c8d8c8ec559f3931531bd396bf31e0d4dd.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="戴尔笔记本E6430安装黑苹果的全部过程" />
+<meta property="og:description" content="寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://163168.xyz/posts/9.html/" />
+<meta property="article:published_time" content="2019-12-08T19:21:42+00:00" />
+<meta property="article:modified_time" content="2019-12-08T19:21:42+00:00" />
+<meta itemprop="name" content="戴尔笔记本E6430安装黑苹果的全部过程">
+<meta itemprop="description" content="寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover">
+<meta itemprop="datePublished" content="2019-12-08T19:21:42+00:00" />
+<meta itemprop="dateModified" content="2019-12-08T19:21:42+00:00" />
+<meta itemprop="wordCount" content="945">
+
+
+
+<meta itemprop="keywords" content="黑苹果,Mac,戴尔E6430,lnmp," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="戴尔笔记本E6430安装黑苹果的全部过程"/>
+<meta name="twitter:description" content="寻找EFI文件 从黑苹果长期维护机型 EFI 及安装教程整理 https://www.jianshu.com/p/484f07b8c7fd 找到 https://github.com/kinoute/Hack-Dell-Latitude-E6430 下载EFI文件夹 下载系统 从黑果小兵下载macOS Mojave 10.14.6，自带Clover"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Even</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">标签</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">买外贸货</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Even</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">标签</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">买外贸货</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">戴尔笔记本E6430安装黑苹果的全部过程</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2019-12-08 </span>
+        <div class="post-category">
+            <a href="/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/"> 黑苹果 </a>
+            </div>
+          <span class="more-meta"> 约 945 字 </span>
+          <span class="more-meta"> 预计阅读 2 分钟 </span>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#寻找efi文件">寻找EFI文件</a></li>
+    <li><a href="#下载系统">下载系统</a></li>
+    <li><a href="#制作启动u盘">制作启动U盘</a></li>
+    <li><a href="#替换efi文件">替换EFI文件</a></li>
+    <li><a href="#设置bios">设置bios</a></li>
+    <li><a href="#安装mac">安装mac</a></li>
+    <li><a href="#将u盘内的efi文件复制到电脑">将U盘内的EFI文件复制到电脑</a></li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h1 id="寻找efi文件">寻找EFI文件</h1>
+<p>从黑苹果长期维护机型 EFI 及安装教程整理
+<a href="https://www.jianshu.com/p/484f07b8c7fd">https://www.jianshu.com/p/484f07b8c7fd</a>
+找到  <a href="https://github.com/kinoute/Hack-Dell-Latitude-E6430">https://github.com/kinoute/Hack-Dell-Latitude-E6430</a> 下载EFI文件夹
+<!-- more --></p>
+<h1 id="下载系统">下载系统</h1>
+<p>从黑果小兵下载macOS Mojave 10.14.6，自带Clover的
+<a href="https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html">https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html</a></p>
+<h1 id="制作启动u盘">制作启动U盘</h1>
+<p>下载etcher软件，https://www.balena.io/etcher 选择U盘，点击Flash即可。（10分钟左右）
+也可以用TransMac制作启动盘（比较麻烦），用管理员权限打开，在软件的左侧找到自己的U盘，然后右键 ，选择Formar Disk for Mac意思是将U盘格式化为Mac格式，然后右键选择Restore with Disk Image来将准备的dmg镜像写入到U盘中（要30分钟左右）</p>
+<h1 id="替换efi文件">替换EFI文件</h1>
+<p>​    拔下U盘重新插上，会发现有一个EFI文件夹，将里面的文件删除，把下载好的适合自己机型的EFI文件复制进去就可以了，如果找不到EFI文件夹，可以用DiskGenius读取，并强制删除里面的EFI文件，Ctrl+V粘贴自己的EFI文件夹</p>
+<h1 id="设置bios">设置bios</h1>
+<p>拥有正确的BIOS版本后，请使用F12启动时的密钥进入BIOS 。单击“加载默认值”，然后将SATAOperations设置为AHCI，将Boot List Option设置为UEFI并禁用Secure Boot</p>
+<h1 id="安装mac">安装mac</h1>
+<p>参考 <a href="https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html">https://blog.daliansky.net/MacOS-installation-tutorial-XiaoMi-Pro-installation-process-records.html</a></p>
+<p>启动U盘插入电脑，开机按F12，选择USB启动安装程序，选择macOS Install、选择磁盘工具，点击左侧，切换到显示所有设备，然后找到我们要安装系统的硬盘，点击抹掉，名称随便写，格式选mac os扩展（日志式），方案选择GUID 分区图，点击抹掉。
+安装Mac OS ，提示:应用程序副本不能验证 它在下载过程中可能已遭破坏或篡改
+先关闭电脑的网络, 如关闭右上角的WIFI或者拔掉网线 然后在终端里面修改时间
+请完全复制下面代码，按回车键确认:
+date 122014102015.30
+输入上面的代码按回车后返回的是 Sun Dec 20 14:10:30 PST 2015
+其他就都简单了，都是中文的，第一次走完进度条后，会自动重启一次，整个安装过程大概20来分钟。
+安装完成后，每次启动都是要从U盘启动的，要想设置成从电脑启动。我们需要下面的操作。</p>
+<h1 id="将u盘内的efi文件复制到电脑">将U盘内的EFI文件复制到电脑</h1>
+<p>查看磁盘分区表 
+diskutil list
+挂载磁盘EFI分区
+sudo diskutil mount disk0s1
+挂载U盘EFI分区
+sudo diskutil mount disk2s1
+打开Finder，注意后面有个.
+open .
+电脑上会显示U盘和硬盘的EFI文件夹，将U盘的EFI文件复制到硬盘的EFI文件夹就可以拔掉U盘启动mac了</p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">waimao365</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2019-12-08
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/">黑苹果</a>
+          <a href="/tags/mac/">Mac</a>
+          <a href="/tags/%E6%88%B4%E5%B0%94e6430/">戴尔E6430</a>
+          <a href="/tags/lnmp/">lnmp</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/posts/10.html/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">百度网盘不限速下载的一些方法</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/posts/8.html/">
+            <span class="next-text nav-default">N1安装omv后安装docker&#43;transmission&#43;lnmp搭建网站</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:your@email.com" class="iconfont icon-email" title="email"></a>
+      <a href="http://localhost:1313" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
+      <a href="http://localhost:1313" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="http://localhost:1313" class="iconfont icon-facebook" title="facebook"></a>
+      <a href="http://localhost:1313" class="iconfont icon-linkedin" title="linkedin"></a>
+      <a href="http://localhost:1313" class="iconfont icon-google" title="google"></a>
+      <a href="http://localhost:1313" class="iconfont icon-github" title="github"></a>
+      <a href="http://localhost:1313" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="http://localhost:1313" class="iconfont icon-zhihu" title="zhihu"></a>
+      <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
+      <a href="http://localhost:1313" class="iconfont icon-pocket" title="pocket"></a>
+      <a href="http://localhost:1313" class="iconfont icon-tumblr" title="tumblr"></a>
+      <a href="http://localhost:1313" class="iconfont icon-instagram" title="instagram"></a>
+      <a href="http://localhost:1313" class="iconfont icon-gitlab" title="gitlab"></a>
+      <a href="http://localhost:1313" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://163168.xyz/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2017 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>waimao365</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c12618f9a600c40bd024996677e951e64d3487006775aeb22e200c990006c5c7.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
