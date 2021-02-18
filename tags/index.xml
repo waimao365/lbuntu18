@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/tags/</link>
+    <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 16 Feb 2021 15:30:08 +0000</lastBuildDate><atom:link href="https://163168.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>https://163168.xyz/tags/linux/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://163168.xyz/tags/ubuntu/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wine</title>
+      <link>https://163168.xyz/tags/wine/</link>
+      <pubDate>Tue, 16 Feb 2021 15:30:08 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/wine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://163168.xyz/tags/hugo/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站</title>
+      <link>https://163168.xyz/tags/%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Mon, 15 Feb 2021 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archlinux</title>
+      <link>https://163168.xyz/tags/archlinux/</link>
+      <pubDate>Mon, 15 Feb 2021 08:55:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/archlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑系统</title>
+      <link>https://163168.xyz/tags/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Mon, 15 Feb 2021 08:55:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E7%94%B5%E8%84%91%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://163168.xyz/tags/docker/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://163168.xyz/tags/home-assistant/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/home-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N1</title>
+      <link>https://163168.xyz/tags/n1/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/n1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openwrt</title>
+      <link>https://163168.xyz/tags/openwrt/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/openwrt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>宝塔</title>
+      <link>https://163168.xyz/tags/%E5%AE%9D%E5%A1%94/</link>
+      <pubDate>Tue, 02 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%AE%9D%E5%A1%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://163168.xyz/tags/github/</link>
+      <pubDate>Mon, 01 Jun 2020 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LG V30</title>
+      <link>https://163168.xyz/tags/lg-v30/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/lg-v30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>root</title>
+      <link>https://163168.xyz/tags/root/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>刷机</title>
+      <link>https://163168.xyz/tags/%E5%88%B7%E6%9C%BA/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%88%B7%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安卓手机</title>
+      <link>https://163168.xyz/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</link>
+      <pubDate>Mon, 23 Mar 2020 15:18:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudflare</title>
+      <link>https://163168.xyz/tags/cloudflare/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k2p</title>
+      <link>https://163168.xyz/tags/k2p/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/k2p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>域名</title>
+      <link>https://163168.xyz/tags/%E5%9F%9F%E5%90%8D/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%9F%9F%E5%90%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>路由</title>
+      <link>https://163168.xyz/tags/%E8%B7%AF%E7%94%B1/</link>
+      <pubDate>Fri, 03 Jan 2020 13:10:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E8%B7%AF%E7%94%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APK Downloader</title>
+      <link>https://163168.xyz/tags/apk-downloader/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/apk-downloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cheome插件</title>
+      <link>https://163168.xyz/tags/cheome%E6%8F%92%E4%BB%B6/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/cheome%E6%8F%92%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安卓软件</title>
+      <link>https://163168.xyz/tags/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Mon, 23 Dec 2019 12:20:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recovery</title>
+      <link>https://163168.xyz/tags/recovery/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twrp</title>
+      <link>https://163168.xyz/tags/twrp/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/twrp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黑苹果</title>
+      <link>https://163168.xyz/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
+      <pubDate>Wed, 18 Dec 2019 01:00:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edxposed</title>
+      <link>https://163168.xyz/tags/edxposed/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/edxposed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xposed</title>
+      <link>https://163168.xyz/tags/xposed/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/xposed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>三星健康</title>
+      <link>https://163168.xyz/tags/%E4%B8%89%E6%98%9F%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E4%B8%89%E6%98%9F%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>支付宝运动</title>
+      <link>https://163168.xyz/tags/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BF%90%E5%8A%A8/</link>
+      <pubDate>Sat, 14 Dec 2019 15:55:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E6%94%AF%E4%BB%98%E5%AE%9D%E8%BF%90%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://163168.xyz/tags/mac/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PE</title>
+      <link>https://163168.xyz/tags/pe/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/pe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑软件</title>
+      <link>https://163168.xyz/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>驱动</title>
+      <link>https://163168.xyz/tags/%E9%A9%B1%E5%8A%A8/</link>
+      <pubDate>Fri, 13 Dec 2019 19:05:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E9%A9%B1%E5%8A%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo</title>
+      <link>https://163168.xyz/tags/hexo/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jsdelivr</title>
+      <link>https://163168.xyz/tags/jsdelivr/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/jsdelivr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PicGo</title>
+      <link>https://163168.xyz/tags/picgo/</link>
+      <pubDate>Fri, 13 Dec 2019 12:33:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/picgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magisk</title>
+      <link>https://163168.xyz/tags/magisk/</link>
+      <pubDate>Tue, 10 Dec 2019 00:21:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/magisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XQuickEnergy</title>
+      <link>https://163168.xyz/tags/xquickenergy/</link>
+      <pubDate>Tue, 10 Dec 2019 00:21:32 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/xquickenergy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>it软件</title>
+      <link>https://163168.xyz/tags/it%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/it%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>百度网盘下载</title>
+      <link>https://163168.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</link>
+      <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>百度网盘下载不限速</title>
+      <link>https://163168.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E4%B8%8D%E9%99%90%E9%80%9F/</link>
+      <pubDate>Sun, 08 Dec 2019 23:28:33 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E4%B8%8D%E9%99%90%E9%80%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lnmp</title>
+      <link>https://163168.xyz/tags/lnmp/</link>
+      <pubDate>Sun, 08 Dec 2019 19:21:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/lnmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>戴尔E6430</title>
+      <link>https://163168.xyz/tags/%E6%88%B4%E5%B0%94e6430/</link>
+      <pubDate>Sun, 08 Dec 2019 19:21:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E6%88%B4%E5%B0%94e6430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omv</title>
+      <link>https://163168.xyz/tags/omv/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/omv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>斐讯N1</title>
+      <link>https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/</link>
+      <pubDate>Sun, 08 Dec 2019 18:31:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E6%96%90%E8%AE%AFn1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://163168.xyz/tags/mysql/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://163168.xyz/tags/nginx/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typecho</title>
+      <link>https://163168.xyz/tags/typecho/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/typecho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homeassistant</title>
+      <link>https://163168.xyz/tags/homeassistant/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/homeassistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>斐讯DC1</title>
+      <link>https://163168.xyz/tags/%E6%96%90%E8%AE%AFdc1/</link>
+      <pubDate>Mon, 16 Sep 2019 12:52:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E6%96%90%E8%AE%AFdc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrome</title>
+      <link>https://163168.xyz/tags/chrome/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tampermonkey</title>
+      <link>https://163168.xyz/tags/tampermonkey/</link>
+      <pubDate>Thu, 12 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/tampermonkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo备份还原</title>
+      <link>https://163168.xyz/tags/hexo%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/</link>
+      <pubDate>Wed, 11 Sep 2019 13:01:13 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/hexo%E5%A4%87%E4%BB%BD%E8%BF%98%E5%8E%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>博客</title>
+      <link>https://163168.xyz/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 09 Sep 2019 19:21:48 +0000</pubDate>
+      
+      <guid>https://163168.xyz/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

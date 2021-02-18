@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>LG V30韩版 ROOT详细教程 - Even - A super concise theme for Hugo</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="waimao365" /><meta name="description" content="前言 2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，" /><meta name="keywords" content="Hugo, theme, even" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.80.0 with theme even" />
+
+
+<link rel="canonical" href="https://163168.xyz/posts/18.html/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+<link href="/sass/main.min.2e81bbed97b8b282c1aeb57488cc71c8d8c8ec559f3931531bd396bf31e0d4dd.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="LG V30韩版 ROOT详细教程" />
+<meta property="og:description" content="前言 2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://163168.xyz/posts/18.html/" />
+<meta property="article:published_time" content="2019-12-23T15:18:30+00:00" />
+<meta property="article:modified_time" content="2019-12-23T15:18:30+00:00" />
+<meta itemprop="name" content="LG V30韩版 ROOT详细教程">
+<meta itemprop="description" content="前言 2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，">
+<meta itemprop="datePublished" content="2019-12-23T15:18:30+00:00" />
+<meta itemprop="dateModified" content="2019-12-23T15:18:30+00:00" />
+<meta itemprop="wordCount" content="2170">
+
+
+
+<meta itemprop="keywords" content="安卓手机,LG V30,刷机,root," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="LG V30韩版 ROOT详细教程"/>
+<meta name="twitter:description" content="前言 2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Even</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">归档</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">标签</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">买外贸货</li>
+      </a>
+  </ul>
+
+  
+
+
+</nav>
+
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Even</a>
+</div>
+
+
+
+
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">归档</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">标签</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">买外贸货</a>
+      </li>
+  </ul>
+</nav>
+
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">LG V30韩版 ROOT详细教程</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2019-12-23 </span>
+        <div class="post-category">
+            <a href="/categories/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/"> 安卓手机 </a>
+            <a href="/categories/lg-v30/"> LG V30 </a>
+            <a href="/categories/%E5%88%B7%E6%9C%BA/"> 刷机 </a>
+            <a href="/categories/root/"> root </a>
+            </div>
+          <span class="more-meta"> 约 2170 字 </span>
+          <span class="more-meta"> 预计阅读 5 分钟 </span>
+        
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content always-active">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#前言">前言</a></li>
+    <li><a href="#lg-v30韩版-root详细教程">LG V30韩版 ROOT详细教程</a></li>
+    <li><a href="#准备工作">准备工作</a>
+      <ul>
+        <li><a href="#安装lg官方驱动">安装LG官方驱动</a></li>
+        <li><a href="#安装lgup刷机工具">安装LGUP刷机工具</a></li>
+        <li><a href="#安装谷歌驱动">安装谷歌驱动</a></li>
+      </ul>
+    </li>
+    <li><a href="#混刷-h930的kdz">混刷 h930的kdz</a></li>
+    <li><a href="#解锁bootloader">解锁BootLoader</a></li>
+    <li><a href="#root备份欧版recovery">root，备份欧版recovery</a></li>
+    <li><a href="#刷回韩版系统">刷回韩版系统</a></li>
+    <li><a href="#教程补充">教程补充</a></li>
+    <li><a href="#机锋精品教程">机锋精品教程</a></li>
+  </ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <h1 id="前言">前言</h1>
+<p>2019年最火的洋垃圾LG V30，骁龙835cpu（从此告别发烧），4G内存，64G储存，能满足日用生活，能玩游戏，2k屏幕，hifi，极高的性价比。</p>
+<!-- more -->
+<h1 id="lg-v30韩版-root详细教程">LG V30韩版 ROOT详细教程</h1>
+<p>一个非常详细的视频教程，建议大家仔细观看，全部看懂了再来操作
+<a href="https://www.bilibili.com/video/av47071667">https://www.bilibili.com/video/av47071667</a>
+看视频刷机比较麻烦，我把视频整理成图文版的，包括命令这些，方便机友们刷机
+需要的工具视频下面的评论里面都有的，大家可以先去下载</p>
+<h1 id="准备工作">准备工作</h1>
+<h2 id="安装lg官方驱动">安装LG官方驱动</h2>
+<h2 id="安装lgup刷机工具">安装LGUP刷机工具</h2>
+<p>把下载的modle和LGUP覆盖到安卓目录</p>
+<h2 id="安装谷歌驱动">安装谷歌驱动</h2>
+<p>首先下载并打开此ADB工具箱http://pan.baidu.com/s/1nuHwTcP
+在弹出的窗口中输入y并按回车，依次重复操作3 次</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223193123.png" alt=""></p>
+<h1 id="混刷-h930的kdz">混刷 h930的kdz</h1>
+<p>手机拔掉sim卡，断开wifi，退出google账户，设置，常规，关于手机，软件信息，连续点击内部版本号开启开发人员选项。
+进入开发人员选项，点击启用OEM解锁，和USB调试，手机关机。关机后，按住音量+，插入已经连接电脑的USB线，手机会进入download 刷机模式
+右键点击LGUP软件，选择以管理员身份运行，</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223132526.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223132704.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223132846.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223132942.png" alt=""></p>
+<p>刷完之后会卡LOGO</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223133059.png" alt=""></p>
+<p>按住音量减和电源键 8秒以上，会闪屏一下，当LOGO出现后，立刻松开，再重新按住关机键，直到出现data peset界面，才松开。用音量键选择YES，按电源键 进入恢复出厂设置</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223133708.png" alt=""></p>
+<p>开始硬格手机，格式完毕后，就可以进入系统，手机开机没有基带的，不能使用SIM卡，</p>
+<h1 id="解锁bootloader">解锁BootLoader</h1>
+<p>按照前面的教程打开设置进入开发者模式，启用OEM解锁，和USB调试，usb调成照片传输模式</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223134217.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223134343.png" alt=""></p>
+<p>LG V30工具包里有命令的，我还是把命令贴这里，方便一些
+输入命令
+adb devices
+勾选手机始终运行在此计算机上进行操作，点确定
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223160120.png" alt=""></p>
+<p>adb reboot bootloader
+&mdash;&ndash;进入了fastboot&mdash;&ndash;
+fastboot flash unlock unlock.bin</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223160511.png" alt=""></p>
+<p>fastboot reboot
+&mdash;&ndash;解锁了BL并重启了手机&mdash;&ndash;
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223160704.png" alt=""></p>
+<p>手机开机后，按照前面的教程打开设置进入开发者模式，启用OEM解锁，和USB调试，usb调成照片传输模式</p>
+<p>输入
+adb devices
+adb reboot bootloader
+fastboot getvar unlocked
+出现 yes  就是解锁成功了。
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223161325.png" alt=""></p>
+<p>&mdash;-进入fastboot以查看是否解锁&mdash;&ndash;</p>
+<h1 id="root备份欧版recovery">root，备份欧版recovery</h1>
+<p>fastboot boot TWRP.img
+临时进入twrp，可以手机操作切换到中文
+格式化分区
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223161714.png" alt="">
+会出现红字 不用理</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223161820.png" alt=""></p>
+<p>再清除 cache</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223162004.png" alt="">
+也会出现红字，点击返回，点击重启bootloader</p>
+<p>fastboot boot TWRP.img
+再次进入twrp，电脑上可以显示手机存储了。把拷贝内存文件夹里面的三个文件复制粘贴到手机里面
+依次刷入这三个文件，顺序不能乱，这次刷入没有出现红字。
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223162654.png" alt=""></p>
+<p>接着备份欧版官方的recocery</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223162928.png" alt=""></p>
+<p>备份好后，复制到电脑，重启手机到bootloader
+输入
+fastboot flash recovery TWRP.img
+再次输入
+fastboot boot TWRP.img
+电脑上就可以看到手机储存了</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223163401.png" alt="">
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223163523.png" alt=""></p>
+<p>把里面的twrp文件夹复制到电脑，然后手机关机</p>
+<h1 id="刷回韩版系统">刷回韩版系统</h1>
+<p>关机状态下，按住音量加 插入USB，就会进入刷机模式
+右键点击LGUP，以管理员身份运行。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223163954.png" alt=""></p>
+<p>刷韩版的kdz系统
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223164216.png" alt=""></p>
+<p>选分区的时候排除recovery，recoverybak两个分区，也就是不刷入官方recovery，因为韩版系统即使解锁bootloader也无法进入fastboot，也就无法刷入TWRP</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223164329.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223164450.png" alt=""></p>
+<p>刷完，一般会进入TWRP，如果没有进去，就要从 混刷 h930的kdz 开始重新刷</p>
+<p>刷完韩版系统，进入TWRP后
+格式化data，再清除 cache，依次刷入
+1_Magisk-v16.0
+2_no-verity-opt-encrypt-6.0
+3_lg-rctd-disabler-1.0(1)adb shell
+刷完后把之前备份复制到电脑的欧版recocery，（带备份日期和时间的这个文件夹）复制到手机，从TWRP恢复。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223174444.png" alt=""></p>
+<p>恢复之后关机再开机，一般可以正常进系统，如果等10分钟还不能开机，就要重新执行工厂格式化开机</p>
+<p>按住音量减和电源键 8秒以上，会闪屏一下，当LOGO出现后，立刻松开，再重新按住关机键，直到出现data peset界面，才松开。用音量键选择YES，按电源键 进入恢复出厂设置
+按照前面的教程，并引用了之前的图片
+<img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223133708.png" alt=""></p>
+<p>开始硬格手机，格式完毕后，就可以进入系统
+现在的系统状态是已解锁BL锁，有root权限
+把TWEP.img文件复制到手机储存
+打开开发者模式，开启adb调试
+输入下面的命令
+adb shell
+su</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223175719.png" alt=""></p>
+<p>手机点允许</p>
+<p>dd if=/sdcard/TWRP.img of=/dev/block/bootdevice/by-name/recovery</p>
+<h1 id="教程补充">教程补充</h1>
+<p>刷机前可以先备份基带再刷机</p>
+<p>手机进入刷机模式（完全关机按住音量+插入数据线连接电脑）</p>
+<p>右键管理员打开桌面“LG UP”。</p>
+<p>先备份基带（备份xbl xbl2 modem分区） （机锋论坛浪大教程）</p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223185115.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/waimao8/image@master/20191223185236.png" alt=""></p>
+<p>以后要升级系统，可以从刷回韩版教程开始刷</p>
+<p>在ADB和Fastboot工具的文件夹中，按住shift并右击空白处，选择“在此处打开Powershell窗口”（旧版Windows为命令提示符）
+界面不同，但命令无区别）,进入命令行窗口。</p>
+<h1 id="机锋精品教程">机锋精品教程</h1>
+<p>LG V30韩版解锁Bootloader+TWRP+韩版系统+root详细教程&amp;资源  （非常详细的刷机教程）
+<a href="http://bbs.gfan.com/android-9493762-1-4.html">http://bbs.gfan.com/android-9493762-1-4.html</a></p>
+<p>LG V30官方KDZ混刷教程
+<a href="http://bbs.gfan.com/android-9313407-1-1.html">http://bbs.gfan.com/android-9313407-1-1.html</a></p>
+<p>LG V30解BL 安装TWRP及root详细教程
+ttp://bbs.gfan.com/android-9313266-1-1.html</p>
+<p>韩版刷机说明..防砖.刷第三方
+<a href="http://bbs.gfan.com/android-9561523-1-1.html">http://bbs.gfan.com/android-9561523-1-1.html</a></p>
+<p>韩版v300l，解锁+root+原生系统教程之五大步（补充）
+<a href="http://bbs.gfan.com/android-9506755-1-1.html">http://bbs.gfan.com/android-9506755-1-1.html</a></p>
+<p>LG V30目前可以通刷的版本说明
+<a href="http://bbs.gfan.com/android-9310017-1-3.html">http://bbs.gfan.com/android-9310017-1-3.html</a></p>
+<p>【PIE+Volte】韩版移动电信成功开启Volte更新详细教程
+<a href="http://bbs.gfan.com/android-9618911-1-3.html">http://bbs.gfan.com/android-9618911-1-3.html</a></p>
+<p>韩版用户折腾经验分享
+<a href="http://bbs.gfan.com/android-9492238-1-6.html">http://bbs.gfan.com/android-9492238-1-6.html</a></p>
+<p>俄罗斯论坛LG V30刷机固件下载
+<a href="http://4pda.ru/forum/index.php?showtopic=902834">http://4pda.ru/forum/index.php?showtopic=902834</a></p>
+<p>看下载量 Dot OS 这个不错 也是官方的，比较稳定，其他rom应该也不错的。
+8.1
+<a href="https://forum.xda-developers.com/lg-v30/development/rom-dotos-v2-2-t37984419.0">https://forum.xda-developers.com/lg-v30/development/rom-dotos-v2-2-t37984419.0</a></p>
+<p>9.0
+<a href="https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490">https://forum.xda-developers.com/lg-v30/development/rom-pie-dot-os-3-0-t3908490</a></p>
+<p>LG-US998 20D ROM 常用底包 里面有解锁的相关链接
+<a href="https://forum.xda-developers.com/lg-v30/development/rom-lg-us998-20d-rom-t3830318">https://forum.xda-developers.com/lg-v30/development/rom-lg-us998-20d-rom-t3830318</a></p>
+
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">waimao365</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2019-12-23
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA/">安卓手机</a>
+          <a href="/tags/lg-v30/">LG V30</a>
+          <a href="/tags/%E5%88%B7%E6%9C%BA/">刷机</a>
+          <a href="/tags/root/">root</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/posts/19.html/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">关于微店购物的相关问题</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/posts/17.html/">
+            <span class="next-text nav-default">解决安卓手机卡顿 安装google商店官方软件的方法</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:your@email.com" class="iconfont icon-email" title="email"></a>
+      <a href="http://localhost:1313" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
+      <a href="http://localhost:1313" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="http://localhost:1313" class="iconfont icon-facebook" title="facebook"></a>
+      <a href="http://localhost:1313" class="iconfont icon-linkedin" title="linkedin"></a>
+      <a href="http://localhost:1313" class="iconfont icon-google" title="google"></a>
+      <a href="http://localhost:1313" class="iconfont icon-github" title="github"></a>
+      <a href="http://localhost:1313" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="http://localhost:1313" class="iconfont icon-zhihu" title="zhihu"></a>
+      <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
+      <a href="http://localhost:1313" class="iconfont icon-pocket" title="pocket"></a>
+      <a href="http://localhost:1313" class="iconfont icon-tumblr" title="tumblr"></a>
+      <a href="http://localhost:1313" class="iconfont icon-instagram" title="instagram"></a>
+      <a href="http://localhost:1313" class="iconfont icon-gitlab" title="gitlab"></a>
+      <a href="http://localhost:1313" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="https://163168.xyz/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    主题 - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    2017 - 
+    2021<span class="heart"><i class="iconfont icon-heart"></i></span><span>waimao365</span>
+  </span>
+</div>
+
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.c12618f9a600c40bd024996677e951e64d3487006775aeb22e200c990006c5c7.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>

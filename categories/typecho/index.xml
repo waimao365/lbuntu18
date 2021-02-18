@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typecho on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/typecho/</link>
+    <description>Recent content in typecho on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Dec 2019 18:28:42 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/typecho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>斐讯N1安Armbian安装OMV安装nginx&#43;mysql安装typecho全过程</title>
+      <link>https://163168.xyz/posts/7.html/</link>
+      <pubDate>Sun, 08 Dec 2019 18:28:42 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/7.html/</guid>
+      <description>安装armbian 测试了很多版本的Armbian+omv，OMV经常会报错，改用了XQ7的N1首个支持FullCone Nat的Armbian</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archlinux on Even - A super concise theme for Hugo</title>
+    <link>https://163168.xyz/categories/archlinux/</link>
+    <description>Recent content in archlinux on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Feb 2021 08:55:30 +0000</lastBuildDate><atom:link href="https://163168.xyz/categories/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用ssh复制粘贴安装archlinux教程</title>
+      <link>https://163168.xyz/posts/27.html/</link>
+      <pubDate>Mon, 15 Feb 2021 08:55:30 +0000</pubDate>
+      
+      <guid>https://163168.xyz/posts/27.html/</guid>
+      <description>官方安装教程 https://wiki.archlinux.org/index.php/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87) 手敲键盘部分 开启SSH 首先设置root的密码 passwd 回车之后输入root的密码即可 打开sshd systemctl start sshd 查看ip地址 ip addr 4、安装工具 pacman -Syy</description>
+    </item>
+    
+  </channel>
+</rss>
